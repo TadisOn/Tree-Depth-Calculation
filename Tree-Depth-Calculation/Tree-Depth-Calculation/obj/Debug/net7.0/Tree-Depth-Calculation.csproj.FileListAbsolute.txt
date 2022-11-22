@@ -1,0 +1,15 @@
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\bin\Debug\net7.0\Tree-Depth-Calculation.exe
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\bin\Debug\net7.0\Tree-Depth-Calculation.deps.json
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\bin\Debug\net7.0\Tree-Depth-Calculation.runtimeconfig.json
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\bin\Debug\net7.0\Tree-Depth-Calculation.dll
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\bin\Debug\net7.0\Tree-Depth-Calculation.pdb
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.csproj.AssemblyReference.cache
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.AssemblyInfoInputs.cache
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.AssemblyInfo.cs
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.dll
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\refint\Tree-Depth-Calculation.dll
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.pdb
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\Tree-Depth-Calculation.genruntimeconfig.cache
+C:\Users\tjutk\Documents\GitHub\Tree-Depth-Calculation\Tree-Depth-Calculation\Tree-Depth-Calculation\obj\Debug\net7.0\ref\Tree-Depth-Calculation.dll
